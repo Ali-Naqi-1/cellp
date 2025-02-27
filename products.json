@@ -1,0 +1,132 @@
+{
+    "ip16": [
+        {
+            "img": "assets/images/16/apple-iphone-16-pro-max.jpg  ",
+            "id": 1,
+            "title": "Iphone 16 Pro Max",
+            "price": "$2000"
+        },
+        {
+            "img": "assets/images/16/apple-iphone-16-pro.jpg ",
+            "id": 2,
+            "title": "Iphone 16 Pro",
+            "price": "$2000"
+        },
+        {
+            "img": " assets/images/16/apple-iphone-16-plus.jpg",
+            "id": 3,
+            "title": "Iphone 16 plus",
+            "price": "$2000"
+        },
+        {
+            "img": " assets/images/16/apple-iphone-16.jpg",
+            "id": 4,
+            "title": "Iphone 16",
+            "price": "$2000"
+        }
+    ],
+    "ip15": [
+        {
+            "img": "assets/images/15/apple-iphone-15-pro-max.jpg  ",
+            "id": 5,
+            "title": "Iphone 15 Pro Max",
+            "price": "$2000"
+        },
+        {
+            "img": "assets/images/15/apple-iphone-15-pro.jpg ",
+            "id": 6,
+            "title": "Iphone 15 Pro",
+            "price": "$2000"
+        },
+        {
+            "img": "  assets/images/15/apple-iphone-15-plus-.jpg",
+            "id": 7,
+            "title": "Iphone 15 plus",
+            "price": "$2000"
+        },
+        {
+            "img": " assets/images/15/apple-iphone-15.jpg",
+            "id": 8,
+            "title": "Iphone 15",
+            "price": "$2000"
+        }
+    ],
+    "ip14": [
+        {
+            "img": " assets/images/14/apple-iphone-14-pro-max-.jpg",
+            "id": 9,
+            "title": "Iphone 14 Pro Max",
+            "price": "$2000"
+        },
+        {
+            "img": "assets/images/14/apple-iphone-14-pro.jpg ",
+            "id": 10,
+            "title": "Iphone 14 Pro",
+            "price": "$2000"
+        },
+        {
+            "img": " assets/images/14/apple-iphone-14-plus.jpg",
+            "id": 11,
+            "title": "Iphone 14 plus",
+            "price": "$2000"
+        },
+        {
+            "img": " assets/images/14/apple-iphone-14.jpg",
+            "id": 12,
+            "title": "Iphone 14",
+            "price": "$2000"
+        }
+    ],
+    "ip13": [
+        {
+            "img": "assets/images/13/apple-iphone-13-pro-max.jpg ",
+            "id": 13,
+            "title": "Iphone 13 Pro",
+            "price": "$2000"
+        },
+        {
+            "img": " assets/images/13/apple-iphone-13-pro.jpg",
+            "id": 14,
+            "title": "Iphone 13 plus",
+            "price": "$2000"
+        },
+        {
+            "img": " assets/images/13/apple-iphone-13-mini.jpg",
+            "id": 15,
+            "title": "Iphone 13",
+            "price": "$2000"
+        },
+        {
+            "img": " assets/images/13/apple-iphone-13.jpg",
+            "id": 16,
+            "title": "Iphone 13",
+            "price": "$2000"
+        }
+    ],
+    "ip12": [
+        {
+            "img": " assets/images/12/apple-iphone-12-pro--.jpg ",
+            "id": 17,
+            "title": "Iphone 12 Pro",
+            "price": "$2000"
+        },
+        {
+            "img": " assets/images/12/apple-iphone-12-mini.jpg",
+            "id": 18,
+            "title": "Iphone 12 plus",
+            "price": "$2000"
+        },
+        {
+            "img": " assets/images/12/apple-iphone-12-mini.jpg",
+            "id": 19,
+            "title": "Iphone 12",
+            "price": "$2000"
+        },
+        {
+            "img": " assets/images/12/apple-iphone-12.jpg",
+            "id": 20,
+            "title": "Iphone 12",
+            "price": "$2000"
+        }
+    ]
+}
